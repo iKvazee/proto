@@ -10,4 +10,4 @@ steps:
 - name: backend1
   image: alpine:latest
   commands:
-    - echo "drone auto deploy prod 3"
+    - echo "drone auto deploy prod 4"
